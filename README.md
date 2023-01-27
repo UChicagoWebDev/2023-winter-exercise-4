@@ -44,10 +44,9 @@ any materials you consulted.
 
 ### Rubric
 
-1 point each for:
-- Use `XMLHTTPRequest` to make an AJAX requests to the image search API. Running
-  a search clears previous search results
-- Use the DOM API to display image results to the user
-- Use the DOM API to display related concept results to the user
-- Clicking on a result image adds it to the user's mood board
-- Clicking on a related concept runs a new search for that concept
+- Use `XMLHTTPRequest` to make an AJAX requests to the image search API (3 points)
+- Running a search clears previous search results (1 point)
+- Use the DOM API to display image results to the user (2 points)
+- Use the DOM API to display related concept results to the user (1 point)
+- Clicking on a result image adds it to the user's mood board (2 points)
+- Clicking on a related concept runs a new search for that concept (1 point)
