@@ -1,0 +1,11 @@
+/* body {
+  margin: auto;
+} */
+
+#results {
+  display: none;
+}
+
+#results:target {
+  display: block;
+}
